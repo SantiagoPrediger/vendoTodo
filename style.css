@@ -53,6 +53,7 @@ font-family: 'Mynerve', cursive;
 }
 .card {
     margin: 15px;
+    width: 80%;
 }
 .redes {
     margin: 30px auto;
