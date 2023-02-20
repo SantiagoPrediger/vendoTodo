@@ -12,6 +12,11 @@ font-family: 'Mynerve', cursive;
     box-sizing: border-box;
 }
 
+body {
+    background-image: url(./img/fondo.jpg);
+    background-repeat: repeat;
+}
+
 .titulo {
     font-family: 'Mynerve', cursive ;
     text-align: center;
