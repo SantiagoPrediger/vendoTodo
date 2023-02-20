@@ -1,0 +1,80 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mynerve', cursive;
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none !important;
+    box-sizing: border-box;
+}
+
+.titulo {
+    font-family: 'Mynerve', cursive ;
+    text-align: center;
+    margin-top: 50px;
+}
+.description {
+    margin: 0 auto;
+}
+.description img{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.presentation {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10;
+}
+.ayuda {
+    width: 77%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10;
+    background-color: rgba(0, 0, 0, 0.075);
+    border-radius: 5px;
+}
+
+.accordion {
+    width: 80%;
+    margin: 25px auto;
+}
+.products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card {
+    margin: 15px;
+}
+.redes {
+    margin: 30px auto;
+    width: 80%;
+}
+.imagenes {
+    display: flex;
+    justify-content: center;
+}
+.imagenes img {
+    margin: 0px 10px;
+}
+.texto-redes {
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.fuente {
+    font-weight: 600;
+}
+.copy {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 50px;
+}
